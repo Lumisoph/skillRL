@@ -1,0 +1,27 @@
+# Numerical
+numpy==2.2.6
+packaging==25.0
+
+# PyTorch
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+
+# Inference
+vllm==0.11.0
+
+# HuggingFace
+transformers==4.57.3
+tokenizers==0.22.1
+huggingface-hub==0.36.0
+
+# Dataset
+datasets==5.0.1
+fsspec==2026.6.0
+
+# RL / distributed
+ray==2.50.0
+tensordict==0.10.0
+
+# PEFT
+peft==0.17.1
